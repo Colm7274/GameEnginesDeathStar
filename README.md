@@ -28,13 +28,10 @@ I just simply made the assets from simple shapes and also using Probulder to get
 
 -Camera Look Script: I used the script from this video-(https://www.youtube.com/watch?v=W70n_bXp7Dc&t=2s)
 
--
-
--
 
 # What I am most proud of in the assignment:
 
--
+I am most proud of the Death Star's Laser beams that come out from the surface and form into 1 giant beam then that extends, I wasd very happy with how I managed to allign everything and getnthem to meetat a pretty singular point, but also the designs I made for the X-Wing(Both closed and oepn wings) and also the TIE fighters, I'm very happy with how they came out and think they very closely resemble the iconic Star Wars ships.
 
 # What I learned:
 
