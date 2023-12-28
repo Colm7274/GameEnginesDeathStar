@@ -35,4 +35,4 @@ I am most proud of the Death Star's Laser beams that come out from the surface a
 
 # What I learned:
 
--
+I learned that making good looking and non mesy assets takes a lot of time, patience and massive trial and error, so I will definitely remember this in the futurte when I want to make more of my own assets, also this gives me massive respect to the already huge respect i give to asset and art designers in video games, how incredible they get them to eventually took a very long time and incredible patience.
