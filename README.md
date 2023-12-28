@@ -8,7 +8,7 @@ Class Group: Solo
 
 Video:
 
-https://youtu.be/oPNlDKBbWCo
+(https://youtu.be/oPNlDKBbWCo)
 
 # Description of the Project:
 
