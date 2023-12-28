@@ -24,9 +24,9 @@ I just simply made the assets from simple shapes and also using Probulder to get
 
 # List of classes/assets in the project:
 
--Earth asset: I got it from the asset store here (https://assetstore.unity.com/packages/vfx/shaders/free-earth-planet-the-best-planet-shader-in-the-asset-store-56841)
+-Earth asset: I got it from the asset store here-(https://assetstore.unity.com/packages/vfx/shaders/free-earth-planet-the-best-planet-shader-in-the-asset-store-56841)
 
--
+-Camera Look Script: I used the script from this video-(https://www.youtube.com/watch?v=W70n_bXp7Dc&t=2s)
 
 -
 
